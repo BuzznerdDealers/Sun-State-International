@@ -91,7 +91,7 @@
               "children": [
                 { "id": "loc-tampa", "label": "Tampa, FL", "type": "url", "url": "/#locations" },
                 { "id": "loc-davenport", "label": "Davenport, FL", "type": "url", "url": "/#locations" },
-                { "id": "loc-sarasota", "label": "Sarasota, FL", "type": "url", "url": "/#locations" },
+                { "id": "loc-sarasota", "label": "Sarasota, FL", "type": "page", "ref": "sarasota" },
                 { "id": "loc-brooksville", "label": "Brooksville, FL", "type": "url", "url": "/#locations" }
               ]
             }
@@ -104,7 +104,7 @@
       "name": "Utility bar links",
       "items": [
         { "id": "u-tampa", "label": "Tampa", "type": "url", "url": "/#locations" },
-        { "id": "u-sarasota", "label": "Sarasota", "type": "url", "url": "/#locations" },
+        { "id": "u-sarasota", "label": "Sarasota", "type": "page", "ref": "sarasota" },
         { "id": "u-davenport", "label": "Davenport", "type": "url", "url": "/#locations" },
         { "id": "u-brooksville", "label": "Brooksville", "type": "url", "url": "/#locations" },
         { "id": "u-aftermarket", "label": "Aftermarket", "type": "url", "url": "/#services" },
